@@ -21,4 +21,4 @@
 ### 실습 링크
 
 - ANN 실습 [[Colab 링크]](https://colab.research.google.com/drive/17iO4T8sBKhDOE46A0CrtmYGwlFucDt1L?usp=sharing)
-- 텍스트 분석 [[Colab 링크]](https://colab.research.google.com/drive/17iO4T8sBKhDOE46A0CrtmYGwlFucDt1L?usp=sharing)
+- 텍스트 분석 [[Colab 링크]](https://colab.research.google.com/drive/1stuj_LzZdlSv7VH81IviLkBFITZQ0eDp?usp=sharing)
